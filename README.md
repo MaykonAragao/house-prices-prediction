@@ -30,5 +30,3 @@ O modelo atingiu um **RMSLE (Root Mean Squared Logarithmic Error) de ~0.1119** n
 2. Instale as dependências: `pip install pandas numpy seaborn scikit-learn xgboost`.
 3. Execute o notebook `01_analise_exploratoria.ipynb`.
 
----
-*Desenvolvido durante Mentoria de Machine Learning Prático.*
